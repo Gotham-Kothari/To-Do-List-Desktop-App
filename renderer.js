@@ -29,7 +29,7 @@ function addTask() {
 }
 
 taskInput.addEventListener("keydown", function(event) {
-    if(event.key == 'Enter') {
+    if(event.key == 'Enter') {  
         addTask();
     }
 });
