@@ -35,13 +35,3 @@ Snippet of the app:<br/>
 - No external libraries or frameworks used
 
 ---
-
-## 📁 Folder Structure
-
-to-do-app/
-│
-├── index.html        # Main HTML file
-├── style.css         # UI styling
-├── renderer.js       # Handles UI logic (task creation, deletion)
-├── main.js           # Electron main process
-└── package.json      # Project metadata and dependencies
