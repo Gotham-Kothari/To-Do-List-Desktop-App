@@ -23,9 +23,7 @@ Snippet of the app:<br/>
 | ✅ Add Tasks        | Users can enter a task and click “Add Task” or press Enter |
 | ✅ Checkbox Support | Tasks include checkboxes to mark them complete     |
 | ✅ Delete Tasks     | Click the ❌ button to remove individual tasks      |
-| ❌ No Save State    | Tasks are not stored between sessions              |
-| ❌ Not Responsive   | Fixed-size window optimized for desktop only       |
-
+| 
 ---
 
 ## 🧱 Tech Stack
