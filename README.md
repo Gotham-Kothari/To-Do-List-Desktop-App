@@ -1,5 +1,3 @@
-# Create the README.md content
-readme_content = """
 # 📝 To-Do List Desktop App
 
 ## 🗂️ Project Overview
