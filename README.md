@@ -11,7 +11,6 @@ The app runs natively on the desktop, thanks to Electron.
 Snippet of the app:<br/>
 ![image](https://github.com/user-attachments/assets/1c955a3e-8ddc-4841-9b58-c6ae8aa5313a)
 
-
 ---
 
 ## ⚙️ Features
